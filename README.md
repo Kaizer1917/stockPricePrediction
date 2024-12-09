@@ -24,7 +24,7 @@ In the development of our data-driven model, an essential step was the extractio
 
 To understand the distribution of the numerical features, density plots, basic statistical descriptors like mean, median, and standard deviation are generated for key variables such as Average Price. 
 
-<img src="https://github.com/vishal5498/stockPricePrediction/blob/ed66a27096ba324d3f663226123eef4f64d52606/Density%20Graph.png" width = "200"> <img src="https://github.com/vishal5498/stockPricePrediction/blob/ed66a27096ba324d3f663226123eef4f64d52606/Density%20Graph.png" width = "200">
+<img src="https://github.com/vishal5498/stockPricePrediction/blob/ed66a27096ba324d3f663226123eef4f64d52606/Density%20Graph.png" width = "200"> <img src="https://github.com/vishal5498/stockPricePrediction/blob/dbe93b68679308c3be7fad7a839223dacdeb6c79/Described%20Figure.png" width = "200">
 
 We further explore relationships among variables through correlation analyses, employing both Pearson and Spearman methods to measure linear and rank correlations, respectively. These relationships are visualized using heatmaps, which provide intuitive graphical representations of the correlation coefficients, enhancing the understanding of interdependencies among the features.
 
