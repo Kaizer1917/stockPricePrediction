@@ -1,8 +1,13 @@
-# Group Repository for the Data Science Mini-Project (EMATM0050)
+# Trend Prediction and High-frequency Trading Strategy Using Limit Order Book
 
-## Please edit the fields below with your information
-Group Number: 20
+This project explores the application of advanced data processes/machine learning to predict near-term price movements and generate trading signals using Level2 (Limit Order Books) data from financial markets. 
 
-Problem Assigned: Problem B - (JP Morgan)
+Some of the procedures include time series analysis using ARIMA, SARIMAX and LSTM models for a single tradable asset, regression of price predictions, and classification of buy, sell, and hold signals. A simulated trading environment was used to evaluate the profitability of these models. 
 
-Group Members: Vishal Chavan, Xinwei Fan, Shuqi Wang, Jieli He
+The results from this empirical investigation highlight the challenges and opportunities of leveraging high-frequency trading data in developing automated trading strategies that capitalize on second price movements. The findings emphasize the importance of sophisticated data-processing and feature-engineering techniques to improve the accuracy and profitability of predictive trading models.
+
+# Introduction
+
+## Limit Order Books
+
+![Limit Order Books](https://www.researchgate.net/profile/Joaquin-Fernandez-Tapia/publication/284900784/figure/fig3/AS:652208416763906@1532510012149/Graphical-representation-of-the-Limit-Order-Book.png)
