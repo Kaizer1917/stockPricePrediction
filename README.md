@@ -10,4 +10,10 @@ The results from this empirical investigation highlight the challenges and oppor
 
 ## Limit Order Books
 
-<img src="https://github.com/vishal5498/stockPricePrediction/blob/786814cafae60bced617925ba88eaec411f8c43d/Graphical-representation-of-the-Limit-Order-Book.png" width="200">
+<img src="https://github.com/vishal5498/stockPricePrediction/blob/786814cafae60bced617925ba88eaec411f8c43d/Graphical-representation-of-the-Limit-Order-Book.png" width="350">
+
+The LOB shows a live picture of the supply and demand of the securities at any given moment since the limit orders that have not been executed yet live in it. A number of studies have tapped deeper into the LOB to set a ground on the possibility of trend prediction. At the same time, machine learning and deep learning have been widely applied in this field. research has found that with the use of only one feature, the performance of ARIMA significantly surpasses that of LSTM as the time window increases. 
+
+This study attempts to set out on an exploratory journey to address these challenges through classic and advanced modelling methodologies. Initially, the time-series forecasting model ARIMA, is used as the baseline as this model is good at capturing linear correlations. After understanding ARIMA’s limitations in dealing with non-linear nature of LOBs, the investigation proceeded to examine more advanced models such as Seasonal ARIMA with Exogenous Factors (SARIMAX) and Long Short-Term Memory (LSTM) networks.
+
+Beyond price forecasting, the methods employed are further optimized to classify trading actions such as buy, sell, or hold.
