@@ -10,4 +10,4 @@ The results from this empirical investigation highlight the challenges and oppor
 
 ## Limit Order Books
 
-<img src="https://www.researchgate.net/profile/Joaquin-Fernandez-Tapia/publication/284900784/figure/fig3/AS:652208416763906@1532510012149/Graphical-representation-of-the-Limit-Order-Book.png" width="500">
+<img src="https://github.com/vishal5498/stockPricePrediction/blob/786814cafae60bced617925ba88eaec411f8c43d/Graphical-representation-of-the-Limit-Order-Book.png" width="200">
